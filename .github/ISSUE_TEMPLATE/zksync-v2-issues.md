@@ -22,6 +22,10 @@ A clear and concise description of what you expected to happen.
 
 More details can be found at https://stackoverflow.com/help/minimal-reproducible-example
 
+```
+insert code here
+```
+
 **Additional details**
 - Contents of `package.json` file?
 - Contents of `hardhat.config` file?
@@ -34,6 +38,3 @@ Steps to reproduce the behavior:
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
